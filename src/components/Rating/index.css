@@ -1,0 +1,25 @@
+.rating-li-item {
+  display: flex;
+
+  align-items: center;
+}
+
+.img-rating {
+  width: 100%;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+  margin-right: 20px;
+  width: 30%;
+  cursor: pointer;
+  height: 40px;
+}
+
+.onSelect {
+  color: #0967d2;
+}
